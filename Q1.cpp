@@ -3,8 +3,6 @@
 using namespace std;
 
 int main() {
-cout <<"Hello"<< endl;
-
 //Declaring and defining variables of all basic data types
 int intVar = 19;
 float floatVar = 1.9;
