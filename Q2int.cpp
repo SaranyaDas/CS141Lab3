@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-//Declaring variables in desired data type and asking for input
+//Declaring the variables in the desired data type and asking for input
 int n1, n2;
 cout <<"Enter an integer:";
 cin >> n1;
